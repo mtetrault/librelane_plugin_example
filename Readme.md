@@ -1,5 +1,7 @@
 # `librelane_plugin_example`
 
+Adapted/updated from the original example for OpenLane 2.
+
 This is a demonstrative example on how to make a plugin for Librelane that
 includes both a custom step and a custom flow.
 
