@@ -1,8 +1,8 @@
 import os
-from openlane.steps import Step
-from openlane.flows import Flow
-from openlane.state import DesignFormat
-from openlane.common import Path
+from librelane.steps import Step
+from librelane.flows import Flow
+from librelane.state import DesignFormat
+from librelane.common import Path
 
 __dir__ = os.path.dirname(os.path.abspath(__file__))
 
